@@ -23,4 +23,6 @@ Aplikasi ini adalah backend sederhana untuk mencatat menggunakan format Markdown
    - `GET /api/markdown/`  
      Ambil daftar semua catatan yang sudah disimpan.
 
-##
+## Project URL
+
+[https://roadmap.sh/projects/markdown-note-taking-app](https://roadmap.sh/projects/markdown-note-taking-app)
