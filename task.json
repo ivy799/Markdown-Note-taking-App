@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "description": "# Judul Utama\nIni adalah contoh note untuk disimpan.",
+    "html": "<h1>Judul Utama</h1>\n<p>Ini adalah contoh note untuk disimpan.</p>\n",
+    "status": "todo",
+    "createdAt": "1/9/2025, 16.10.45",
+    "updatedAt": "1/9/2025, 16.10.45"
+  },
+  {
+    "id": 1,
+    "description": "# Judul Utama\nIni adalah contoh note dwaefaefaefaewfa",
+    "html": "<h1>Judul Utama</h1>\n<p>Ini adalah contoh note dwaefaefaefaewfa</p>\n",
+    "status": "todo",
+    "createdAt": "1/9/2025, 16.11.10",
+    "updatedAt": "1/9/2025, 16.11.10"
+  }
+]
